@@ -57,14 +57,16 @@ namespace Quest
                 guessRandom,
                 favoriteBeatle
             };
-
+            bool gameActive=true;
+            while (gameActive){
             // Loop through all the challenges and subject the Adventurer to them
             foreach (Challenge challenge in challenges)
             {
                 challenge.RunChallenge(theAdventurer);
             }
-
-            // This code examines how Awesome the Adventurer is after completing the challenges
+        
+       
+             // This code examines how Awesome the Adventurer is after completing the challenges
             // And praises or humiliates them accordingly
             if (theAdventurer.Awesomeness >= maxAwesomeness)
             {
@@ -78,6 +80,17 @@ namespace Quest
             {
                 Console.WriteLine("I guess you did...ok? ...sorta. Still, you should get out of my sight.");
             }
+
+            //phase 3
+            Console.WriteLine("Would you like to play again? y or n.");
+            string userInput=Console.ReadLine();
+            if(userInput!="y"){
+                    gameActive=false;
+            }
+           
+        }
+           
+            
         }
     }
 }
