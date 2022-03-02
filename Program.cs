@@ -55,8 +55,15 @@ namespace Quest
                 Length=60
                 
             };
+            //phase 5
+            //had have add a int to the data.
+            Hat adventurerHat=new Hat{
+                ShininessLevel=5,
+                
+            };
+
               // Make a new "Adventurer" object using the "Adventurer" class
-            Adventurer theAdventurer = new Adventurer(name,adventurerRobe);
+            Adventurer theAdventurer = new Adventurer(name,adventurerRobe,adventurerHat);
             Console.WriteLine(theAdventurer.GetDescription());
             // A list of challenges for the Adventurer to complete
             // Note we can use the List class here because have the line "using System.Collections.Generic;" at the top of the file.
