@@ -61,6 +61,8 @@ namespace Quest
                 ShininessLevel=5,
                 
             };
+            // the instance  of the prize.cs 
+            Prize prize=new Prize("At the end of your jounery. You win a gold potato. ^_^ ");
 
               // Make a new "Adventurer" object using the "Adventurer" class
             Adventurer theAdventurer = new Adventurer(name,adventurerRobe,adventurerHat);
@@ -98,7 +100,8 @@ namespace Quest
             {
                 Console.WriteLine("I guess you did...ok? ...sorta. Still, you should get out of my sight.");
             }
-
+            //calling the prize by doing prize ShowPrize(theAdventurer)
+            prize.ShowPrize(theAdventurer);
             //phase 3
             Console.WriteLine("Would you like to play again? y or n.");
             string userInput=Console.ReadLine();
