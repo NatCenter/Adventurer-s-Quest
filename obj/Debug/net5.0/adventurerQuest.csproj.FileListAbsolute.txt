@@ -1,0 +1,16 @@
+C:\Users\Nathan\workspace\adventurerQuest\bin\Debug\net5.0\adventurerQuest.exe
+C:\Users\Nathan\workspace\adventurerQuest\bin\Debug\net5.0\adventurerQuest.deps.json
+C:\Users\Nathan\workspace\adventurerQuest\bin\Debug\net5.0\adventurerQuest.runtimeconfig.json
+C:\Users\Nathan\workspace\adventurerQuest\bin\Debug\net5.0\adventurerQuest.runtimeconfig.dev.json
+C:\Users\Nathan\workspace\adventurerQuest\bin\Debug\net5.0\adventurerQuest.dll
+C:\Users\Nathan\workspace\adventurerQuest\bin\Debug\net5.0\ref\adventurerQuest.dll
+C:\Users\Nathan\workspace\adventurerQuest\bin\Debug\net5.0\adventurerQuest.pdb
+C:\Users\Nathan\workspace\adventurerQuest\obj\Debug\net5.0\adventurerQuest.csproj.AssemblyReference.cache
+C:\Users\Nathan\workspace\adventurerQuest\obj\Debug\net5.0\adventurerQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\workspace\adventurerQuest\obj\Debug\net5.0\adventurerQuest.AssemblyInfoInputs.cache
+C:\Users\Nathan\workspace\adventurerQuest\obj\Debug\net5.0\adventurerQuest.AssemblyInfo.cs
+C:\Users\Nathan\workspace\adventurerQuest\obj\Debug\net5.0\adventurerQuest.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\workspace\adventurerQuest\obj\Debug\net5.0\adventurerQuest.dll
+C:\Users\Nathan\workspace\adventurerQuest\obj\Debug\net5.0\ref\adventurerQuest.dll
+C:\Users\Nathan\workspace\adventurerQuest\obj\Debug\net5.0\adventurerQuest.pdb
+C:\Users\Nathan\workspace\adventurerQuest\obj\Debug\net5.0\adventurerQuest.genruntimeconfig.cache
